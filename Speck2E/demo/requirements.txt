@@ -1,0 +1,6 @@
+addict
+PySide2
+samna
+sinabs
+sinabs-dynapcnn
+torch
